@@ -1,0 +1,27 @@
+{
+  "name": "cinemavuejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "ant-design-vue": "^4.0.3",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-request": "^2.0.3",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
